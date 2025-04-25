@@ -8,5 +8,8 @@
 body{
     font-size:1rem;/* tamanho da fonte base (geralmente 16px)*/
     font-family: montserrat;/*fonte principal do sit
-    
 }
+
+/*estilo do cabeçalho*/
+
+header{background-color: white;/* fundo branco para o
